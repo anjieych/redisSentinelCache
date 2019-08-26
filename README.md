@@ -1,4 +1,5 @@
 ##What
+
 redisSentinelCache is redis cache privoder for github.com/astaxie/beego/cache with redis sentinel.
 
 ##How
