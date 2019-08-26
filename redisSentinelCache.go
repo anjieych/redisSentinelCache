@@ -1,8 +1,9 @@
 // Package redis for cache provider
 //
-// depend on github.com/gomodule/redigo/redis
+// depend on github.com/gomodule/redigo/redis and github.com/astaxie/beego/cache
 //
 // go install github.com/gomodule/redigo/redis
+// go install github.com/astaxie/beego/cache
 //
 // Usage:
 // import(
